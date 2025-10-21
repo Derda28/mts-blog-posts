@@ -4,7 +4,7 @@
         author: "Admin"
         coverImage: "https://drive.google.com/thumbnail?id=1g6VzYcVehM1nvw154phVrxUG-TWfhYlg&sz=w1000"
         excerpt: "Access Bars, zihinsel yüklerinizi hafifletmenin ve daha huzurlu bir yaşam sürmenin anahtarıdır."
-        ---
+---
         
 ## Zihninizdeki Fazlalıkları Temizleyin: Access Bars ile Tanışın
 
